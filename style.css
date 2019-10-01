@@ -1,0 +1,26 @@
+img:nth-child(1){
+    width: 120px;
+    border-radius: 50%;
+}
+.hello{
+    display:flex;
+    align-items: center;
+}
+
+.pic{
+    margin-top: 1rem;
+    margin-right: 3rem;
+}   
+hr{
+    color: #212121;
+    border: 2px dotted;
+    border-style: dotted none none none;
+}
+
+body{
+    background-color: #f9f9f9;
+}
+
+h1, h3{
+    color: #2a1a5e;
+}
